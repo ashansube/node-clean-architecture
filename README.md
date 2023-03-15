@@ -1,2 +1,2 @@
 # node-clean-architecture
-Node JS, TypeScript clean architecture CRUD app
+Node JS, TypeScript, mongoDB clean architecture CRUD app
